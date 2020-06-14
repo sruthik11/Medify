@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "540827964268",
+    "firebase_url": "https://healthcare-8156e.firebaseio.com",
+    "project_id": "healthcare-8156e",
+    "storage_bucket": "healthcare-8156e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540827964268:android:1e7db001f180b7220e1949",
+        "android_client_info": {
+          "package_name": "com.example.mahe.health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540827964268-635januvt7qh5480hu263i60kisd618f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvGWDMeCGHV0ZqJT4UD0eEMLI_5THf0Cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540827964268-635januvt7qh5480hu263i60kisd618f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:orientation="vertical"
+    android:background="@drawable/grad_bg">
+        <TextView
+            android:id="@+id/PName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="PName"
+            android:layout_gravity="start"
+            android:textAllCaps="true"
+            android:fontFamily="sans-serif-light"
+            android:textColor="@color/white"
+            android:textSize="15sp" />
+        <TextView
+            android:id="@+id/DName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="DName"
+            android:layout_gravity="start"
+            android:textAllCaps="true"
+            android:fontFamily="sans-serif-light"
+            android:textColor="@color/white"
+            android:textSize="15sp" />
+        <TextView
+            android:id="@+id/PAge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="PAge"
+            android:layout_gravity="start"
+            android:textAllCaps="true"
+            android:fontFamily="sans-serif-light"
+            android:textColor="@color/white"
+            android:textSize="15sp" />
+        <TextView
+            android:id="@+id/Diagnosis"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Diagnosis"
+            android:layout_gravity="start"
+            android:textAllCaps="true"
+            android:fontFamily="sans-serif-light"
+            android:textColor="@color/white"
+            android:textSize="15sp" />
+        <TextView
+            android:id="@+id/Prescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prescription"
+            android:layout_gravity="start"
+            android:textAllCaps="true"
+            android:fontFamily="sans-serif-light"
+            android:textColor="@color/white"
+            android:textSize="15sp" />
+
+
+</LinearLayout>
